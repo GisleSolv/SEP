@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="carl_runCrouch.png">
+	<!-- Created with Adobe Flash Professional version 15.0.1.179 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="Run_crouch0000" x="0" y="0" width="164" height="126" pivotX="-14.6" pivotY="-51.2"/>
+	<SubTexture name="Run_crouch0001" x="0" y="126" width="164" height="126"/>
+	<SubTexture name="Run_crouch0002" x="0" y="252" width="164" height="126"/>
+	<SubTexture name="Run_crouch0003" x="0" y="378" width="164" height="126"/>
+	<SubTexture name="Run_crouch0004" x="0" y="504" width="164" height="126"/>
+	<SubTexture name="Run_crouch0005" x="0" y="630" width="164" height="126"/>
+	<SubTexture name="Run_crouch0006" x="0" y="756" width="164" height="126"/>
+	<SubTexture name="Run_crouch0007" x="0" y="882" width="164" height="126"/>
+	<SubTexture name="Run_crouch0008" x="164" y="0" width="164" height="126"/>
+	<SubTexture name="Run_crouch0009" x="164" y="126" width="164" height="126"/>
+	<SubTexture name="Run_crouch0010" x="164" y="252" width="164" height="126"/>
+	<SubTexture name="Run_crouch0011" x="164" y="378" width="164" height="126"/>
+	<SubTexture name="Run_crouch0012" x="164" y="504" width="164" height="126"/>
+	<SubTexture name="Run_crouch0013" x="164" y="630" width="164" height="126"/>
+	<SubTexture name="Run_crouch0014" x="164" y="756" width="164" height="126"/>
+	<SubTexture name="Run_crouch0015" x="164" y="882" width="164" height="126"/>
+	<SubTexture name="Run_crouch0016" x="328" y="0" width="164" height="126"/>
+	<SubTexture name="Run_crouch0017" x="328" y="126" width="164" height="126"/>
+	<SubTexture name="Run_crouch0018" x="328" y="252" width="164" height="126"/>
+	<SubTexture name="Run_crouch0019" x="328" y="378" width="164" height="126"/>
+	<SubTexture name="Run_crouch0020" x="328" y="504" width="164" height="126"/>
+	<SubTexture name="Run_crouch0021" x="328" y="630" width="164" height="126"/>
+	<SubTexture name="Run_crouch0022" x="328" y="756" width="164" height="126"/>
+	<SubTexture name="Run_crouch0023" x="328" y="882" width="164" height="126"/>
+	<SubTexture name="Run_crouch0024" x="492" y="0" width="164" height="126"/>
+	<SubTexture name="Run_crouch0025" x="492" y="126" width="164" height="126"/>
+	<SubTexture name="Run_crouch0026" x="492" y="252" width="164" height="126"/>
+	<SubTexture name="Run_crouch0027" x="492" y="378" width="164" height="126"/>
+	<SubTexture name="Run_crouch0028" x="492" y="504" width="164" height="126"/>
+	<SubTexture name="Run_crouch0029" x="492" y="630" width="164" height="126"/>
+	<SubTexture name="Run_crouch0030" x="492" y="756" width="164" height="126"/>
+	<SubTexture name="Run_crouch0031" x="492" y="882" width="164" height="126"/>
+</TextureAtlas>

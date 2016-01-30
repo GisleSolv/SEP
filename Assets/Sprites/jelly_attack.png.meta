@@ -1,0 +1,554 @@
+fileFormatVersion: 2
+guid: e36ee91418194d143a4271fcdce592df
+timeCreated: 1454162175
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: jelly_attack_0
+    21300002: jelly_attack_1
+    21300004: jelly_attack_2
+    21300006: jelly_attack_3
+    21300008: jelly_attack_4
+    21300010: jelly_attack_5
+    21300012: jelly_attack_6
+    21300014: jelly_attack_7
+    21300016: jelly_attack_8
+    21300018: jelly_attack_9
+    21300020: jelly_attack_10
+    21300022: jelly_attack_11
+    21300024: jelly_attack_12
+    21300026: jelly_attack_13
+    21300028: jelly_attack_14
+    21300030: jelly_attack_15
+    21300032: jelly_attack_16
+    21300034: jelly_attack_17
+    21300036: jelly_attack_18
+    21300038: jelly_attack_19
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: jelly_attack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1821
+        width: 420
+        height: 227
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 201, y: 161}
+        - {x: 34, y: 141}
+        - {x: -90, y: 227}
+        - {x: -156, y: 227}
+        - {x: -172, y: 222}
+        - {x: -196, y: 201}
+        - {x: -196, y: 78}
+        - {x: -173, y: 20}
+        - {x: -7, y: 20}
+        - {x: 55, y: 32}
+        - {x: 210, y: 98}
+        - {x: 210, y: 124}
+    - name: jelly_attack_1
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1821
+        width: 420
+        height: 227
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 180, y: 109}
+        - {x: 180, y: 150}
+        - {x: 170, y: 174}
+        - {x: -55, y: 222}
+        - {x: -193, y: 222}
+        - {x: -193, y: 115}
+        - {x: -168, y: 104}
+        - {x: -193, y: 31}
+        - {x: -193, y: 19}
+        - {x: 5, y: 19}
+        - {x: 17, y: 40}
+        - {x: 8, y: 50}
+        - {x: 137, y: 86}
+    - name: jelly_attack_2
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1821
+        width: 420
+        height: 227
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -59, y: 129}
+        - {x: -48, y: 211}
+        - {x: -183, y: 211}
+        - {x: -191, y: 200}
+        - {x: -191, y: 75}
+        - {x: -176, y: 21}
+        - {x: 24, y: 21}
+        - {x: 52, y: 59}
+        - {x: 200, y: 110}
+        - {x: 200, y: 151}
+    - name: jelly_attack_3
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 1821
+        width: 420
+        height: 227
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 170, y: 98}
+        - {x: 179, y: 102}
+        - {x: 179, y: 168}
+        - {x: 83, y: 208}
+        - {x: -184, y: 208}
+        - {x: -196, y: 161}
+        - {x: -196, y: 99}
+        - {x: -170, y: 24}
+        - {x: -163, y: 17}
+        - {x: -157, y: 17}
+        - {x: -150, y: 20}
+        - {x: -10, y: 24}
+        - {x: 5, y: 44}
+        - {x: 6, y: 48}
+    - name: jelly_attack_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1594
+        width: 420
+        height: 227
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77, y: 221}
+        - {x: -178, y: 221}
+        - {x: -197, y: 169}
+        - {x: -197, y: 110}
+        - {x: -169, y: 22}
+        - {x: -88, y: 22}
+        - {x: 1, y: 30}
+        - {x: 18, y: 49}
+        - {x: 202, y: 93}
+        - {x: 202, y: 143}
+    - name: jelly_attack_5
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1594
+        width: 420
+        height: 227
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 39}
+        - {x: 1, y: 55}
+        - {x: 187, y: 104}
+        - {x: 188, y: 107}
+        - {x: 188, y: 133}
+        - {x: 184, y: 150}
+        - {x: 8, y: 226}
+        - {x: -200, y: 226}
+        - {x: -200, y: 18}
+        - {x: -103, y: 18}
+        - {x: -79, y: 33}
+        - {x: -63, y: 44}
+        - {x: -34, y: 28}
+        - {x: -12, y: 25}
+    - name: jelly_attack_6
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1594
+        width: 420
+        height: 227
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 206, y: 127}
+        - {x: 201, y: 142}
+        - {x: 102, y: 144}
+        - {x: -51, y: 109}
+        - {x: -59, y: 226}
+        - {x: -64, y: 227}
+        - {x: -192, y: 227}
+        - {x: -200, y: 192}
+        - {x: -200, y: 106}
+        - {x: -154, y: 24}
+        - {x: 4, y: 24}
+        - {x: 177, y: 99}
+        - {x: 206, y: 114}
+    - name: jelly_attack_7
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 1594
+        width: 420
+        height: 227
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -103, y: 56}
+        - {x: -105, y: 56}
+        - {x: -108, y: 53}
+        - {x: -110, y: 49}
+        - {x: -103, y: 33}
+        - {x: -77, y: 20}
+        - {x: 95, y: 20}
+        - {x: 184, y: 64}
+        - {x: 184, y: 132}
+        - {x: 143, y: 139}
+        - {x: 74, y: 146}
+        - {x: -46, y: 227}
+        - {x: -175, y: 227}
+        - {x: -196, y: 215}
+        - {x: -196, y: 80}
+        - {x: -183, y: 20}
+        - {x: -144, y: 20}
+        - {x: -110, y: 56}
+        - {x: -105, y: 56}
+        - {x: -103, y: 58}
+    - name: jelly_attack_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1367
+        width: 420
+        height: 227
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 99, y: 150}
+        - {x: -55, y: 183}
+        - {x: -101, y: 222}
+        - {x: -183, y: 222}
+        - {x: -193, y: 185}
+        - {x: -193, y: 72}
+        - {x: -160, y: 23}
+        - {x: 65, y: 23}
+        - {x: 186, y: 96}
+        - {x: 206, y: 118}
+        - {x: 206, y: 130}
+    - name: jelly_attack_9
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1367
+        width: 420
+        height: 227
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 157, y: 134}
+        - {x: 93, y: 136}
+        - {x: -37, y: 211}
+        - {x: -162, y: 211}
+        - {x: -191, y: 188}
+        - {x: -191, y: 57}
+        - {x: -181, y: 18}
+        - {x: -66, y: 18}
+        - {x: -21, y: 24}
+        - {x: 156, y: 97}
+        - {x: 166, y: 111}
+        - {x: 166, y: 121}
+    - name: jelly_attack_10
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1367
+        width: 420
+        height: 227
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 159, y: 105}
+        - {x: 162, y: 107}
+        - {x: 168, y: 104}
+        - {x: 201, y: 113}
+        - {x: 201, y: 131}
+        - {x: 88, y: 195}
+        - {x: 8, y: 208}
+        - {x: -196, y: 208}
+        - {x: -196, y: 102}
+        - {x: -120, y: 83}
+        - {x: -118, y: 83}
+        - {x: -115, y: 81}
+        - {x: -119, y: 83}
+        - {x: -124, y: 83}
+        - {x: -163, y: 64}
+        - {x: -169, y: 56}
+        - {x: -160, y: 21}
+        - {x: -115, y: 21}
+        - {x: -69, y: 32}
+        - {x: -49, y: 21}
+        - {x: 61, y: 21}
+        - {x: 158, y: 92}
+        - {x: 158, y: 99}
+    - name: jelly_attack_11
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 1367
+        width: 420
+        height: 227
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45, y: 112}
+        - {x: -36, y: 173}
+        - {x: -99, y: 221}
+        - {x: -166, y: 221}
+        - {x: -187, y: 198}
+        - {x: -197, y: 143}
+        - {x: -197, y: 97}
+        - {x: -173, y: 16}
+        - {x: 32, y: 16}
+        - {x: 185, y: 108}
+        - {x: 185, y: 139}
+        - {x: 142, y: 148}
+    - name: jelly_attack_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1140
+        width: 420
+        height: 227
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 90, y: 145}
+        - {x: -42, y: 134}
+        - {x: -84, y: 226}
+        - {x: -176, y: 226}
+        - {x: -200, y: 219}
+        - {x: -200, y: 34}
+        - {x: -177, y: 14}
+        - {x: -102, y: 14}
+        - {x: -28, y: 21}
+        - {x: 8, y: 26}
+        - {x: 90, y: 86}
+      - - {x: 207, y: 41}
+        - {x: 209, y: 39}
+        - {x: 210, y: 39}
+        - {x: 210, y: 47}
+        - {x: 207, y: 46}
+    - name: jelly_attack_13
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1140
+        width: 420
+        height: 227
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39, y: 135}
+        - {x: -44, y: 162}
+        - {x: -87, y: 227}
+        - {x: -175, y: 227}
+        - {x: -210, y: 177}
+        - {x: -210, y: 8}
+        - {x: -27, y: 8}
+        - {x: 66, y: 88}
+        - {x: 67, y: 92}
+        - {x: 67, y: 106}
+    - name: jelly_attack_14
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1140
+        width: 420
+        height: 227
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 57, y: 120}
+        - {x: -88, y: 227}
+        - {x: -205, y: 227}
+        - {x: -205, y: 8}
+        - {x: -204, y: 7}
+        - {x: -103, y: 7}
+        - {x: -54, y: 10}
+        - {x: -22, y: 29}
+        - {x: 75, y: 84}
+        - {x: 75, y: 106}
+    - name: jelly_attack_15
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 1140
+        width: 420
+        height: 227
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42, y: 118}
+        - {x: -88, y: 222}
+        - {x: -152, y: 222}
+        - {x: -185, y: 202}
+        - {x: -205, y: 143}
+        - {x: -205, y: 28}
+        - {x: -196, y: 3}
+        - {x: -114, y: 3}
+        - {x: -39, y: 8}
+        - {x: 17, y: 41}
+        - {x: 75, y: 83}
+        - {x: 75, y: 116}
+    - name: jelly_attack_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 913
+        width: 420
+        height: 227
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 104}
+        - {x: -82, y: 210}
+        - {x: -91, y: 211}
+        - {x: -170, y: 211}
+        - {x: -198, y: 164}
+        - {x: -204, y: 146}
+        - {x: -204, y: 1}
+        - {x: -18, y: 1}
+        - {x: 13, y: 5}
+        - {x: 76, y: 79}
+        - {x: 76, y: 115}
+        - {x: 60, y: 118}
+    - name: jelly_attack_17
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 913
+        width: 420
+        height: 227
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 76, y: 120}
+        - {x: -94, y: 208}
+        - {x: -176, y: 208}
+        - {x: -179, y: 207}
+        - {x: -204, y: 130}
+        - {x: -204, y: 0}
+        - {x: -29, y: 0}
+        - {x: -23, y: 28}
+        - {x: -47, y: 47}
+        - {x: 76, y: 80}
+    - name: jelly_attack_18
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 913
+        width: 420
+        height: 227
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64, y: 119}
+        - {x: -88, y: 219}
+        - {x: -90, y: 221}
+        - {x: -171, y: 221}
+        - {x: -207, y: 169}
+        - {x: -207, y: 1}
+        - {x: -71, y: 1}
+        - {x: -15, y: 13}
+        - {x: 73, y: 73}
+        - {x: 73, y: 102}
+    - name: jelly_attack_19
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 913
+        width: 420
+        height: 227
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 62, y: 125}
+        - {x: -43, y: 129}
+        - {x: -77, y: 226}
+        - {x: -177, y: 226}
+        - {x: -208, y: 213}
+        - {x: -210, y: 192}
+        - {x: -210, y: 12}
+        - {x: -209, y: 4}
+        - {x: -63, y: 4}
+        - {x: -43, y: 7}
+        - {x: -26, y: 36}
+        - {x: 70, y: 79}
+        - {x: 70, y: 109}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

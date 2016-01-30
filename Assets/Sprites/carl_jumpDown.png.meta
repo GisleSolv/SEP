@@ -1,0 +1,161 @@
+fileFormatVersion: 2
+guid: 162ebef3db52e7a45bbd3b8a4e2ea533
+timeCreated: 1454169051
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: carl_jumpDown_0
+    21300002: carl_jumpDown_1
+    21300004: carl_jumpDown_2
+    21300006: carl_jumpDown_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: carl_jumpDown_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 287
+        width: 142
+        height: 225
+      alignment: 9
+      pivot: {x: 0.44771606, y: 0.42047444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.57568, y: 98.39325}
+        - {x: -63.57568, y: 75.39325}
+        - {x: -54.57568, y: 64.39325}
+        - {x: -49.57568, y: 62.39325}
+        - {x: -41.57568, y: 62.39325}
+        - {x: -35.57568, y: 64.39325}
+        - {x: -43.57568, y: 61.39325}
+        - {x: -59.57568, y: 57.39325}
+        - {x: -63.57568, y: 55.39325}
+        - {x: -63.57568, y: 37.39325}
+        - {x: -61.57568, y: 32.39325}
+        - {x: -13.57568, y: -44.60675}
+        - {x: 57.42432, y: -44.60675}
+        - {x: 69.42432, y: -16.60675}
+        - {x: 69.42432, y: 98.39325}
+    - name: carl_jumpDown_1
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 287
+        width: 142
+        height: 225
+      alignment: 9
+      pivot: {x: 0.552284, y: 0.3670916}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.424332, y: -82.59561}
+        - {x: -13.424332, y: -79.59561}
+        - {x: -19.424332, y: -79.59561}
+        - {x: -20.424332, y: -82.59561}
+      - - {x: 18.575668, y: 102.40439}
+        - {x: 8.575668, y: 122.40439}
+        - {x: -71.42433, y: 122.40439}
+        - {x: -78.42433, y: 117.40439}
+        - {x: -78.42433, y: 67.40439}
+        - {x: -17.424332, y: -46.59561}
+        - {x: 20.575668, y: -67.59561}
+        - {x: 47.57567, y: -67.59561}
+        - {x: 47.57567, y: 122.40439}
+        - {x: 33.57567, y: 122.40439}
+        - {x: 20.575668, y: 105.40439}
+    - name: carl_jumpDown_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 62
+        width: 142
+        height: 225
+      alignment: 9
+      pivot: {x: 0.552284, y: 0.40833795}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55.42433, y: 106.12396}
+        - {x: -78.42433, y: 85.12396}
+        - {x: -78.42433, y: 43.123962}
+        - {x: -17.424332, y: -47.876038}
+        - {x: 0.57566833, y: -43.876038}
+        - {x: 3.5756683, y: -39.876038}
+        - {x: 4.5756683, y: -26.876038}
+        - {x: 11.575668, y: -19.876038}
+        - {x: 18.575668, y: -10.876038}
+        - {x: 10.575668, y: -21.876038}
+        - {x: 8.575668, y: -45.876038}
+        - {x: 14.575668, y: -47.876038}
+        - {x: 23.575668, y: -47.876038}
+        - {x: 28.575668, y: -42.876038}
+        - {x: 51.57567, y: 9.123962}
+        - {x: 51.57567, y: 106.12396}
+    - name: carl_jumpDown_3
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 62
+        width: 142
+        height: 225
+      alignment: 9
+      pivot: {x: 0.578426, y: 0.32997003}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.86351, y: 150.75674}
+        - {x: -48.13649, y: 150.75674}
+        - {x: -51.13649, y: 149.75674}
+        - {x: -51.13649, y: 64.756744}
+        - {x: -48.13649, y: -10.243256}
+        - {x: 16.86351, y: -74.243256}
+        - {x: 49.86351, y: -74.243256}
+        - {x: 59.86351, y: -63.243256}
+        - {x: 59.86351, y: -30.243256}
+        - {x: 34.86351, y: 135.75674}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

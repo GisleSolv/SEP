@@ -1,0 +1,252 @@
+fileFormatVersion: 2
+guid: 46e4e03fb6829664284bca1cdf716f7a
+timeCreated: 1454169367
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: carl_idle_0
+    21300002: carl_idle_1
+    21300004: carl_idle_2
+    21300006: carl_idle_3
+    21300008: carl_idle_4
+    21300010: carl_idle_5
+    21300012: carl_idle_6
+    21300014: carl_idle_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: carl_idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 361
+        width: 74
+        height: 151
+      alignment: 9
+      pivot: {x: 0.43681893, y: 0.3620278}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.3246, y: 96.3338}
+        - {x: -32.3246, y: 60.3338}
+        - {x: -32.3246, y: 2.3338013}
+        - {x: -11.3246, y: -52.6662}
+        - {x: -8.3246, y: -54.6662}
+        - {x: 18.6754, y: -54.6662}
+        - {x: 41.6754, y: -46.6662}
+        - {x: 41.6754, y: 82.3338}
+        - {x: 27.6754, y: 96.3338}
+    - name: carl_idle_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 361
+        width: 74
+        height: 151
+      alignment: 9
+      pivot: {x: 0.45625934, y: 0.35488266}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.2368088, y: 97.41272}
+        - {x: -2.7631912, y: 96.41272}
+        - {x: -30.763191, y: 53.41272}
+        - {x: -30.763191, y: 6.4127197}
+        - {x: -13.763191, y: -53.58728}
+        - {x: 36.23681, y: -53.58728}
+        - {x: 40.23681, y: -51.58728}
+        - {x: 40.23681, y: 75.41272}
+        - {x: 29.236809, y: 97.41272}
+    - name: carl_idle_2
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 361
+        width: 74
+        height: 151
+      alignment: 9
+      pivot: {x: 0.42223874, y: 0.32391962}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.754333, y: 100.088135}
+        - {x: -1.2456665, y: 100.088135}
+        - {x: -31.245667, y: 68.088135}
+        - {x: -31.245667, y: -31.911865}
+        - {x: -26.245667, y: -48.911865}
+        - {x: 35.754333, y: -48.911865}
+        - {x: 42.754333, y: -45.911865}
+        - {x: 42.754333, y: 84.088135}
+        - {x: 30.754333, y: 99.088135}
+    - name: carl_idle_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 210
+        width: 74
+        height: 151
+      alignment: 9
+      pivot: {x: 0.43681893, y: 0.32630143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29.6754, y: 97.728485}
+        - {x: -8.3246, y: 97.728485}
+        - {x: -32.3246, y: 46.728485}
+        - {x: -32.3246, y: 23.728485}
+        - {x: -28.3246, y: 13.728485}
+        - {x: -12.3246, y: -49.271515}
+        - {x: 15.6754, y: -49.271515}
+        - {x: 39.6754, y: -40.271515}
+        - {x: 41.6754, y: -24.271515}
+        - {x: 41.6754, y: 84.728485}
+    - name: carl_idle_4
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 210
+        width: 74
+        height: 151
+      alignment: 9
+      pivot: {x: 0.42709875, y: 0.331065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32.39469, y: 96.009186}
+        - {x: -1.6053085, y: 96.009186}
+        - {x: -30.605309, y: 53.009186}
+        - {x: -30.605309, y: 13.009186}
+        - {x: -11.605309, y: -49.990814}
+        - {x: 20.394691, y: -49.990814}
+        - {x: 36.39469, y: -38.990814}
+        - {x: 42.39469, y: 19.009186}
+        - {x: 42.39469, y: 89.009186}
+      - - {x: 39.39469, y: 35.009186}
+        - {x: 41.39469, y: 33.009186}
+        - {x: 42.39469, y: 33.009186}
+        - {x: 42.39469, y: 38.009186}
+        - {x: 40.39469, y: 38.009186}
+    - name: carl_idle_5
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 210
+        width: 74
+        height: 151
+      alignment: 9
+      pivot: {x: 0.41251868, y: 0.35964602}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.473618, y: -21.30655}
+        - {x: 12.473618, y: -42.30655}
+        - {x: 17.473618, y: -44.30655}
+        - {x: 38.473618, y: -53.30655}
+        - {x: 41.473618, y: -28.30655}
+        - {x: 41.473618, y: 73.69345}
+        - {x: 32.473618, y: 91.69345}
+        - {x: -6.5263824, y: 91.69345}
+        - {x: -30.526382, y: 54.69345}
+        - {x: -30.526382, y: -11.306549}
+        - {x: -12.526382, y: -54.30655}
+        - {x: 18.473618, y: -54.30655}
+        - {x: 20.473618, y: -53.30655}
+        - {x: 16.473618, y: -46.30655}
+        - {x: 12.473618, y: -42.30655}
+        - {x: 8.473618, y: -32.30655}
+    - name: carl_idle_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 59
+        width: 74
+        height: 151
+      alignment: 9
+      pivot: {x: 0.441679, y: 0.31915617}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.315754, y: -26.192581}
+        - {x: 14.315754, y: -21.192581}
+        - {x: 14.315754, y: -16.192581}
+        - {x: 19.315754, y: -13.192581}
+        - {x: 10.315754, y: -31.192581}
+        - {x: 11.315754, y: -33.19258}
+        - {x: 15.315754, y: -37.19258}
+        - {x: 37.315754, y: -37.19258}
+        - {x: 41.315754, y: 5.807419}
+        - {x: 41.315754, y: 80.80742}
+        - {x: 29.315754, y: 96.80742}
+        - {x: 4.315754, y: 96.80742}
+        - {x: -1.6842461, y: 95.80742}
+        - {x: -31.684246, y: 52.80742}
+        - {x: -31.684246, y: 10.807419}
+        - {x: -11.684246, y: -48.19258}
+        - {x: 13.315754, y: -48.19258}
+        - {x: 16.315754, y: -40.19258}
+        - {x: 11.315754, y: -35.19258}
+        - {x: 6.315754, y: -35.19258}
+      - - {x: 38.315754, y: 36.80742}
+        - {x: 40.315754, y: 34.80742}
+        - {x: 41.315754, y: 34.80742}
+        - {x: 41.315754, y: 39.80742}
+        - {x: 39.315754, y: 39.80742}
+    - name: carl_idle_7
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 59
+        width: 74
+        height: 151
+      alignment: 9
+      pivot: {x: 0.4027984, y: 0.37155494}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.8070831, y: 92.8952}
+        - {x: -29.807083, y: 53.895203}
+        - {x: -29.807083, y: -19.104797}
+        - {x: -13.807083, y: -56.104797}
+        - {x: 38.192917, y: -56.104797}
+        - {x: 43.192917, y: -51.104797}
+        - {x: 43.192917, y: 92.8952}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

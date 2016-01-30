@@ -1,0 +1,254 @@
+fileFormatVersion: 2
+guid: c2d590ada38eac141b32442419b95c54
+timeCreated: 1454166683
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: cat_die_0
+    21300002: cat_die_1
+    21300004: cat_die_2
+    21300006: cat_die_3
+    21300008: cat_die_4
+    21300010: cat_die_5
+    21300012: cat_die_6
+    21300014: cat_die_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: cat_die_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 423
+        width: 122
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: -1.25}
+        - {x: 20, y: 2.75}
+        - {x: 33, y: 3.75}
+        - {x: 56, y: 38.75}
+        - {x: 56, y: 57.75}
+        - {x: 52, y: 58.75}
+        - {x: 43, y: 59.75}
+        - {x: 26, y: 44.75}
+        - {x: -14, y: 66.75}
+        - {x: -46, y: 66.75}
+        - {x: -48, y: 60.75}
+        - {x: -48, y: 20.75}
+        - {x: -27, y: -5.25}
+        - {x: -7, y: -5.25}
+        - {x: -6, y: -3.25}
+        - {x: -4, y: 3.75}
+        - {x: 7, y: -2.25}
+    - name: cat_die_1
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 423
+        width: 122
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30, y: 66.75}
+        - {x: 19, y: 56.75}
+        - {x: -19, y: 37.75}
+        - {x: -19, y: 28.75}
+        - {x: -15, y: 23.75}
+        - {x: -19, y: 27.75}
+        - {x: -19, y: 30.75}
+        - {x: -20, y: 35.75}
+        - {x: -25, y: 65.75}
+        - {x: -30, y: 66.75}
+        - {x: -41, y: 66.75}
+        - {x: -47, y: 58.75}
+        - {x: -47, y: 19.75}
+        - {x: -25, y: -5.25}
+        - {x: 23, y: -5.25}
+        - {x: 41, y: 31.75}
+        - {x: 41, y: 63.75}
+        - {x: 40, y: 66.75}
+    - name: cat_die_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 334
+        width: 122
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 39.75}
+        - {x: -33, y: 65.75}
+        - {x: -47, y: 65.75}
+        - {x: -47, y: 20.75}
+        - {x: -21, y: -4.25}
+        - {x: 17, y: -4.25}
+        - {x: 27, y: 3.75}
+        - {x: 27, y: 18.75}
+    - name: cat_die_3
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 334
+        width: 122
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 59.75}
+        - {x: -47, y: 59.75}
+        - {x: -47, y: 4.75}
+        - {x: -17, y: -2.25}
+        - {x: 17, y: -2.25}
+        - {x: 17, y: 23.75}
+        - {x: 8, y: 51.75}
+    - name: cat_die_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 245
+        width: 122
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: 61.75}
+        - {x: -47, y: 57.75}
+        - {x: -47, y: 16.75}
+        - {x: -36, y: -0.25}
+        - {x: -18, y: -4.25}
+        - {x: -4, y: -6.25}
+        - {x: 24, y: -6.25}
+        - {x: 28, y: 10.75}
+        - {x: 28, y: 61.75}
+    - name: cat_die_5
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 245
+        width: 122
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36, y: 58.75}
+        - {x: 29, y: 54.75}
+        - {x: -58, y: 42.75}
+        - {x: -59, y: 39.75}
+        - {x: -59, y: 28.75}
+        - {x: -38, y: -9.25}
+        - {x: -31, y: -7.25}
+        - {x: -27, y: -3.25}
+        - {x: -27, y: 2.75}
+        - {x: -26, y: -1.25}
+        - {x: -27, y: -19.25}
+        - {x: -24, y: -22.25}
+        - {x: 22, y: -22.25}
+        - {x: 46, y: 29.75}
+        - {x: 46, y: 57.75}
+        - {x: 45, y: 58.75}
+    - name: cat_die_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 156
+        width: 122
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 57, y: -8.25}
+        - {x: 61, y: -2.25}
+        - {x: 61, y: 8.75}
+        - {x: 35, y: 16.75}
+        - {x: 6, y: 16.75}
+        - {x: -10, y: 10.75}
+        - {x: -8, y: 5.75}
+        - {x: -7, y: 3.75}
+        - {x: -8, y: 4.75}
+        - {x: -11, y: 8.75}
+        - {x: -60, y: 10.75}
+        - {x: -61, y: 7.75}
+        - {x: -61, y: -14.25}
+        - {x: -33, y: -22.25}
+        - {x: 22, y: -22.25}
+        - {x: 23, y: -10.25}
+        - {x: 20, y: -9.25}
+    - name: cat_die_7
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 156
+        width: 122
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -61, y: 2.75}
+        - {x: -61, y: -18.25}
+        - {x: -59, y: -22.25}
+        - {x: 59, y: -22.25}
+        - {x: 61, y: -21.25}
+        - {x: 61, y: 16.75}
+        - {x: 59, y: 17.75}
+        - {x: 12, y: 17.75}
+        - {x: -59, y: 8.75}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

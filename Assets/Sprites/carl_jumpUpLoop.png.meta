@@ -1,0 +1,161 @@
+fileFormatVersion: 2
+guid: 8d8dece07f9605442ad504fd79a939f2
+timeCreated: 1454169186
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: carl_jumpUpLoop_0
+    21300002: carl_jumpUpLoop_1
+    21300004: carl_jumpUpLoop_2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: carl_jumpUpLoop_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 374
+        width: 128
+        height: 138
+      alignment: 9
+      pivot: {x: 0.44924763, y: 0.28917196}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27.496304, y: -37.90573}
+        - {x: 32.496304, y: -39.90573}
+        - {x: 42.496304, y: -39.90573}
+        - {x: 58.496304, y: -4.905731}
+        - {x: 37.496304, y: 33.09427}
+        - {x: 70.49631, y: 63.09427}
+        - {x: 70.49631, y: 72.09427}
+        - {x: 33.496304, y: 98.09427}
+        - {x: -5.5036964, y: 98.09427}
+        - {x: -48.503696, y: 88.09427}
+        - {x: -51.503696, y: 76.09427}
+        - {x: -50.503696, y: 67.09427}
+        - {x: -45.503696, y: 64.09427}
+        - {x: -37.503696, y: 64.09427}
+        - {x: -31.503696, y: 67.09427}
+        - {x: -36.503696, y: 64.09427}
+        - {x: -44.503696, y: 62.09427}
+        - {x: -57.503696, y: 56.09427}
+        - {x: -57.503696, y: 40.09427}
+        - {x: -55.503696, y: 36.09427}
+        - {x: -40.503696, y: 35.09427}
+        - {x: -12.503696, y: 57.09427}
+        - {x: -8.503696, y: 55.09427}
+        - {x: -10.503696, y: 54.09427}
+        - {x: -13.503696, y: 50.09427}
+        - {x: -33.503696, y: 33.09427}
+        - {x: -15.503696, y: -17.905731}
+        - {x: 8.496304, y: -39.90573}
+        - {x: 18.496304, y: -39.90573}
+        - {x: 21.496304, y: -37.90573}
+        - {x: 22.496304, y: -34.90573}
+        - {x: 22.496304, y: -29.905731}
+    - name: carl_jumpUpLoop_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 236
+        width: 128
+        height: 138
+      alignment: 9
+      pivot: {x: 0.4274967, y: 0.30934697}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.719578, y: 95.31012}
+        - {x: -44.719578, y: 83.31012}
+        - {x: -51.719578, y: 72.31012}
+        - {x: -43.719578, y: 59.31012}
+        - {x: -34.719578, y: 61.31012}
+        - {x: -29.719578, y: 64.31012}
+        - {x: -23.719578, y: 67.31012}
+        - {x: -27.719578, y: 63.31012}
+        - {x: -54.719578, y: 54.31012}
+        - {x: -54.719578, y: 11.31012}
+        - {x: 0.2804222, y: -42.68988}
+        - {x: 66.280426, y: -42.68988}
+        - {x: 73.280426, y: -23.68988}
+        - {x: 73.280426, y: 76.31012}
+        - {x: 34.280422, y: 95.31012}
+    - name: carl_jumpUpLoop_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 98
+        width: 128
+        height: 138
+      alignment: 9
+      pivot: {x: 0.45649797, y: 0.3227967}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 69.56826, y: 46.454056}
+        - {x: 69.56826, y: 72.454056}
+        - {x: 35.56826, y: 93.454056}
+        - {x: -18.43174, y: 93.454056}
+        - {x: -51.43174, y: 86.454056}
+        - {x: -53.43174, y: 71.454056}
+        - {x: -51.43174, y: 62.454056}
+        - {x: -46.43174, y: 59.454056}
+        - {x: -38.43174, y: 59.454056}
+        - {x: -32.43174, y: 62.454056}
+        - {x: -33.43174, y: 60.454056}
+        - {x: -38.43174, y: 59.454056}
+        - {x: -55.43174, y: 53.454056}
+        - {x: -58.43174, y: 50.454056}
+        - {x: -58.43174, y: 33.454056}
+        - {x: -50.43174, y: 25.454056}
+        - {x: 0.5682602, y: -44.545944}
+        - {x: 19.56826, y: -44.545944}
+        - {x: 22.56826, y: -40.545944}
+        - {x: 26.56826, y: -42.545944}
+        - {x: 44.56826, y: -37.545944}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="carl_crouchIdle.png">
+	<!-- Created with Adobe Flash Professional version 15.0.1.179 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="idle_crouch0000" x="0" y="0" width="172" height="186" pivotX="1344.2" pivotY="42.7"/>
+	<SubTexture name="idle_crouch0001" x="0" y="0" width="172" height="186"/>
+	<SubTexture name="idle_crouch0002" x="172" y="0" width="172" height="186"/>
+	<SubTexture name="idle_crouch0003" x="172" y="0" width="172" height="186"/>
+	<SubTexture name="idle_crouch0004" x="0" y="186" width="172" height="186"/>
+	<SubTexture name="idle_crouch0005" x="172" y="186" width="172" height="186"/>
+	<SubTexture name="idle_crouch0006" x="172" y="186" width="172" height="186"/>
+	<SubTexture name="idle_crouch0007" x="0" y="372" width="172" height="186"/>
+	<SubTexture name="idle_crouch0008" x="0" y="372" width="172" height="186"/>
+	<SubTexture name="idle_crouch0009" x="0" y="372" width="172" height="186"/>
+	<SubTexture name="idle_crouch0010" x="0" y="372" width="172" height="186"/>
+	<SubTexture name="idle_crouch0011" x="0" y="372" width="172" height="186"/>
+	<SubTexture name="idle_crouch0012" x="0" y="372" width="172" height="186"/>
+	<SubTexture name="idle_crouch0013" x="0" y="372" width="172" height="186"/>
+	<SubTexture name="idle_crouch0014" x="0" y="372" width="172" height="186"/>
+	<SubTexture name="idle_crouch0015" x="0" y="372" width="172" height="186"/>
+	<SubTexture name="idle_crouch0016" x="0" y="372" width="172" height="186"/>
+	<SubTexture name="idle_crouch0017" x="0" y="372" width="172" height="186"/>
+	<SubTexture name="idle_crouch0018" x="0" y="372" width="172" height="186"/>
+	<SubTexture name="idle_crouch0019" x="0" y="372" width="172" height="186"/>
+	<SubTexture name="idle_crouch0020" x="0" y="372" width="172" height="186"/>
+	<SubTexture name="idle_crouch0021" x="0" y="372" width="172" height="186"/>
+	<SubTexture name="idle_crouch0022" x="0" y="372" width="172" height="186"/>
+	<SubTexture name="idle_crouch0023" x="0" y="372" width="172" height="186"/>
+	<SubTexture name="idle_crouch0024" x="0" y="372" width="172" height="186"/>
+	<SubTexture name="idle_crouch0025" x="172" y="372" width="172" height="186"/>
+	<SubTexture name="idle_crouch0026" x="172" y="372" width="172" height="186"/>
+	<SubTexture name="idle_crouch0027" x="0" y="372" width="172" height="186"/>
+	<SubTexture name="idle_crouch0028" x="0" y="372" width="172" height="186"/>
+	<SubTexture name="idle_crouch0029" x="0" y="372" width="172" height="186"/>
+	<SubTexture name="idle_crouch0030" x="0" y="372" width="172" height="186"/>
+	<SubTexture name="idle_crouch0031" x="0" y="372" width="172" height="186"/>
+	<SubTexture name="idle_crouch0032" x="0" y="372" width="172" height="186"/>
+	<SubTexture name="idle_crouch0033" x="0" y="372" width="172" height="186"/>
+	<SubTexture name="idle_crouch0034" x="0" y="372" width="172" height="186"/>
+	<SubTexture name="idle_crouch0035" x="0" y="372" width="172" height="186"/>
+	<SubTexture name="idle_crouch0036" x="0" y="372" width="172" height="186"/>
+	<SubTexture name="idle_crouch0037" x="0" y="372" width="172" height="186"/>
+	<SubTexture name="idle_crouch0038" x="0" y="372" width="172" height="186"/>
+	<SubTexture name="idle_crouch0039" x="0" y="372" width="172" height="186"/>
+	<SubTexture name="idle_crouch0040" x="0" y="372" width="172" height="186"/>
+	<SubTexture name="idle_crouch0041" x="0" y="372" width="172" height="186"/>
+	<SubTexture name="idle_crouch0042" x="0" y="372" width="172" height="186"/>
+	<SubTexture name="idle_crouch0043" x="0" y="372" width="172" height="186"/>
+	<SubTexture name="idle_crouch0044" x="0" y="372" width="172" height="186"/>
+	<SubTexture name="idle_crouch0045" x="0" y="372" width="172" height="186"/>
+	<SubTexture name="idle_crouch0046" x="0" y="372" width="172" height="186"/>
+	<SubTexture name="idle_crouch0047" x="0" y="372" width="172" height="186"/>
+	<SubTexture name="idle_crouch0048" x="0" y="372" width="172" height="186"/>
+	<SubTexture name="idle_crouch0049" x="0" y="372" width="172" height="186"/>
+	<SubTexture name="idle_crouch0050" x="0" y="372" width="172" height="186"/>
+	<SubTexture name="idle_crouch0051" x="0" y="372" width="172" height="186"/>
+	<SubTexture name="idle_crouch0052" x="0" y="372" width="172" height="186"/>
+	<SubTexture name="idle_crouch0053" x="0" y="372" width="172" height="186"/>
+	<SubTexture name="idle_crouch0054" x="0" y="372" width="172" height="186"/>
+	<SubTexture name="idle_crouch0055" x="0" y="372" width="172" height="186"/>
+	<SubTexture name="idle_crouch0056" x="0" y="372" width="172" height="186"/>
+	<SubTexture name="idle_crouch0057" x="0" y="372" width="172" height="186"/>
+	<SubTexture name="idle_crouch0058" x="0" y="372" width="172" height="186"/>
+	<SubTexture name="idle_crouch0059" x="0" y="372" width="172" height="186"/>
+	<SubTexture name="idle_crouch0060" x="0" y="372" width="172" height="186"/>
+	<SubTexture name="idle_crouch0061" x="0" y="372" width="172" height="186"/>
+	<SubTexture name="idle_crouch0062" x="0" y="558" width="172" height="186"/>
+	<SubTexture name="idle_crouch0063" x="0" y="558" width="172" height="186"/>
+	<SubTexture name="idle_crouch0064" x="0" y="372" width="172" height="186"/>
+</TextureAtlas>

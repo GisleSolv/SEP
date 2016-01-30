@@ -1,0 +1,485 @@
+fileFormatVersion: 2
+guid: f88671e231250fa4193b33a84eaa0112
+timeCreated: 1454166595
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: cat_wal_0
+    21300002: cat_wal_1
+    21300004: cat_wal_2
+    21300006: cat_wal_3
+    21300008: cat_wal_4
+    21300010: cat_wal_5
+    21300012: cat_wal_6
+    21300014: cat_wal_7
+    21300016: cat_wal_8
+    21300018: cat_wal_9
+    21300020: cat_wal_10
+    21300022: cat_wal_11
+    21300024: cat_wal_12
+    21300026: cat_wal_13
+    21300028: cat_wal_14
+    21300030: cat_wal_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: cat_wal_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 410
+        width: 87
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.5, y: 29}
+        - {x: -32.5, y: 1}
+        - {x: -31.5, y: 0}
+        - {x: 5.5, y: 0}
+        - {x: 24.5, y: 5}
+        - {x: 24.5, y: 84}
+        - {x: 23.5, y: 90}
+        - {x: 22.5, y: 92}
+        - {x: -13.5, y: 92}
+        - {x: -39.5, y: 76}
+    - name: cat_wal_1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 410
+        width: 87
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27.5, y: 92}
+        - {x: 14.5, y: 92}
+        - {x: 1.5, y: 85}
+        - {x: 4.5, y: 75}
+        - {x: 2.5, y: 60}
+        - {x: 2.5, y: 56}
+        - {x: 2.5, y: 67}
+        - {x: 1.5, y: 82}
+        - {x: -4.5, y: 84}
+        - {x: -11.5, y: 86}
+        - {x: -17.5, y: 83}
+        - {x: -20.5, y: 66}
+        - {x: -25.5, y: 43}
+        - {x: -25.5, y: 48}
+        - {x: -28.5, y: 56}
+        - {x: -31.5, y: 58}
+        - {x: -37.5, y: 59}
+        - {x: -41.5, y: 53}
+        - {x: -41.5, y: 48}
+        - {x: -39.5, y: 26}
+        - {x: -35.5, y: 20}
+        - {x: -28.5, y: 16}
+        - {x: -32.5, y: 6}
+        - {x: -24.5, y: 0}
+        - {x: 15.5, y: 0}
+        - {x: 23.5, y: 5}
+        - {x: 27.5, y: 27}
+    - name: cat_wal_2
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 410
+        width: 87
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.5, y: 77}
+        - {x: -22.5, y: 77}
+        - {x: -39.5, y: 66}
+        - {x: -39.5, y: 20}
+        - {x: -34.5, y: 0}
+        - {x: 0.5, y: 0}
+        - {x: 20.5, y: 5}
+        - {x: 31.5, y: 49}
+        - {x: 31.5, y: 73}
+    - name: cat_wal_3
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 410
+        width: 87
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35.5, y: 87}
+        - {x: 26.5, y: 82}
+        - {x: 16.5, y: 76}
+        - {x: 6.5, y: 57}
+        - {x: 12.5, y: 84}
+        - {x: 10.5, y: 87}
+        - {x: -12.5, y: 87}
+        - {x: -41.5, y: 64}
+        - {x: -41.5, y: 29}
+        - {x: -31.5, y: 5}
+        - {x: -27.5, y: 1}
+        - {x: 9.5, y: 1}
+        - {x: 37.5, y: 45}
+        - {x: 37.5, y: 87}
+    - name: cat_wal_4
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 410
+        width: 87
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: 101}
+        - {x: -14.5, y: 101}
+        - {x: -18.5, y: 74}
+        - {x: -16.5, y: 54}
+        - {x: -16.5, y: 39}
+        - {x: -16.5, y: 48}
+        - {x: -23.5, y: 54}
+        - {x: -35.5, y: 56}
+        - {x: -38.5, y: 51}
+        - {x: -38.5, y: 28}
+        - {x: -21.5, y: 2}
+        - {x: -18.5, y: 1}
+        - {x: 7.5, y: 1}
+        - {x: 36.5, y: 27}
+        - {x: 37.5, y: 36}
+        - {x: 37.5, y: 89}
+    - name: cat_wal_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 308
+        width: 87
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.5, y: 92}
+        - {x: 4.5, y: 102}
+        - {x: -14.5, y: 102}
+        - {x: -15.5, y: 100}
+        - {x: -17.5, y: 76}
+        - {x: -15.5, y: 43}
+        - {x: -14.5, y: 37}
+        - {x: -17.5, y: 45}
+        - {x: -24.5, y: 54}
+        - {x: -38.5, y: 49}
+        - {x: -38.5, y: 27}
+        - {x: -22.5, y: 2}
+        - {x: 3.5, y: 2}
+        - {x: 38.5, y: 65}
+        - {x: 40.5, y: 71}
+        - {x: 40.5, y: 87}
+    - name: cat_wal_6
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 308
+        width: 87
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5, y: 13}
+        - {x: 2.5, y: 8}
+        - {x: 3.5, y: 3}
+        - {x: 10.5, y: 3}
+        - {x: 36.5, y: 49}
+        - {x: 36.5, y: 88}
+        - {x: 31.5, y: 92}
+        - {x: 19.5, y: 88}
+        - {x: 11.5, y: 79}
+        - {x: -11.5, y: 102}
+        - {x: -27.5, y: 102}
+        - {x: -36.5, y: 63}
+        - {x: -36.5, y: 18}
+        - {x: -14.5, y: 3}
+        - {x: -1.5, y: 3}
+        - {x: -0.5, y: 7}
+        - {x: -0.5, y: 11}
+        - {x: -2.5, y: 13}
+    - name: cat_wal_7
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 308
+        width: 87
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32.5, y: 95}
+        - {x: -29.5, y: 95}
+        - {x: -40.5, y: 83}
+        - {x: -43.5, y: 60}
+        - {x: -43.5, y: 11}
+        - {x: -22.5, y: 2}
+        - {x: 12.5, y: 2}
+        - {x: 22.5, y: 8}
+        - {x: 32.5, y: 47}
+      - - {x: 40.5, y: 43}
+        - {x: 42.5, y: 41}
+        - {x: 43.5, y: 41}
+        - {x: 43.5, y: 51}
+        - {x: 40.5, y: 50}
+    - name: cat_wal_8
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 308
+        width: 87
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 92}
+        - {x: -43.5, y: 66}
+        - {x: -43.5, y: 32}
+        - {x: -28.5, y: 0}
+        - {x: 19.5, y: 0}
+        - {x: 24.5, y: 1}
+        - {x: 24.5, y: 92}
+      - - {x: -33.5, y: 55}
+        - {x: -30.5, y: 56}
+        - {x: -30.5, y: 59}
+        - {x: -33.5, y: 60}
+        - {x: -35.5, y: 58}
+    - name: cat_wal_9
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 308
+        width: 87
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27.5, y: 87}
+        - {x: 14.5, y: 87}
+        - {x: 4.5, y: 79}
+        - {x: 0.5, y: 57}
+        - {x: 0.5, y: 53}
+        - {x: 1.5, y: 51}
+        - {x: 3.5, y: 49}
+        - {x: 3.5, y: 46}
+        - {x: 2.5, y: 50}
+        - {x: 0.5, y: 51}
+        - {x: 0.5, y: 82}
+        - {x: -5.5, y: 87}
+        - {x: -18.5, y: 87}
+        - {x: -41.5, y: 66}
+        - {x: -41.5, y: 0}
+        - {x: 17.5, y: 0}
+        - {x: 25.5, y: 16}
+        - {x: 27.5, y: 41}
+    - name: cat_wal_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 206
+        width: 87
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 77}
+        - {x: -39.5, y: 61}
+        - {x: -39.5, y: 34}
+        - {x: -34.5, y: 0}
+        - {x: 22.5, y: 0}
+        - {x: 32.5, y: 37}
+        - {x: 32.5, y: 77}
+    - name: cat_wal_11
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 206
+        width: 87
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.5, y: 75}
+        - {x: 9.5, y: 87}
+        - {x: -13.5, y: 87}
+        - {x: -41.5, y: 65}
+        - {x: -41.5, y: 26}
+        - {x: -31.5, y: 1}
+        - {x: 14.5, y: 1}
+        - {x: 37.5, y: 54}
+        - {x: 37.5, y: 80}
+        - {x: 23.5, y: 84}
+    - name: cat_wal_12
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 206
+        width: 87
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37.5, y: 77}
+        - {x: 25.5, y: 77}
+        - {x: 20.5, y: 74}
+        - {x: 14.5, y: 66}
+        - {x: 10.5, y: 60}
+        - {x: 3.5, y: 87}
+        - {x: -1.5, y: 101}
+        - {x: -13.5, y: 101}
+        - {x: -18.5, y: 79}
+        - {x: -16.5, y: 54}
+        - {x: -16.5, y: 38}
+        - {x: -16.5, y: 48}
+        - {x: -23.5, y: 54}
+        - {x: -35.5, y: 56}
+        - {x: -38.5, y: 49}
+        - {x: -38.5, y: 31}
+        - {x: -27.5, y: 7}
+        - {x: -12.5, y: 1}
+        - {x: 6.5, y: 1}
+        - {x: 22.5, y: 27}
+        - {x: 38.5, y: 60}
+        - {x: 38.5, y: 75}
+    - name: cat_wal_13
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 206
+        width: 87
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 102}
+        - {x: -38.5, y: 67}
+        - {x: -38.5, y: 30}
+        - {x: -17.5, y: 2}
+        - {x: 4.5, y: 2}
+        - {x: 43.5, y: 62}
+        - {x: 43.5, y: 102}
+    - name: cat_wal_14
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 206
+        width: 87
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5, y: 13}
+        - {x: 2.5, y: 8}
+        - {x: 5.5, y: 4}
+        - {x: 23.5, y: 24}
+        - {x: 34.5, y: 66}
+        - {x: 34.5, y: 97}
+        - {x: 21.5, y: 102}
+        - {x: -21.5, y: 102}
+        - {x: -26.5, y: 92}
+        - {x: -36.5, y: 53}
+        - {x: -36.5, y: 17}
+        - {x: -17.5, y: 6}
+        - {x: -7.5, y: 3}
+        - {x: -4.5, y: 3}
+        - {x: -0.5, y: 7}
+        - {x: -0.5, y: 11}
+        - {x: -2.5, y: 13}
+    - name: cat_wal_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 104
+        width: 87
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: 98}
+        - {x: 12.5, y: 98}
+        - {x: 2.5, y: 83}
+        - {x: 1.5, y: 68}
+        - {x: 1.5, y: 67}
+        - {x: -0.5, y: 80}
+        - {x: -5.5, y: 87}
+        - {x: -15.5, y: 92}
+        - {x: -25.5, y: 98}
+        - {x: -33.5, y: 98}
+        - {x: -43.5, y: 75}
+        - {x: -43.5, y: 26}
+        - {x: -38.5, y: 26}
+        - {x: -23.5, y: 5}
+        - {x: -19.5, y: 2}
+        - {x: 16.5, y: 2}
+        - {x: 25.5, y: 7}
+        - {x: 28.5, y: 56}
+        - {x: 28.5, y: 93}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

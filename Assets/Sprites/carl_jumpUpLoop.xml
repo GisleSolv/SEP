@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="carl_jumpUpLoop.png">
+	<!-- Created with Adobe Flash Professional version 15.0.1.179 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="jump_up_loop0000" x="0" y="0" width="128" height="138" pivotX="19.75" pivotY="-97.4"/>
+	<SubTexture name="jump_up_loop0001" x="0" y="0" width="128" height="138"/>
+	<SubTexture name="jump_up_loop0002" x="0" y="138" width="128" height="138"/>
+	<SubTexture name="jump_up_loop0003" x="0" y="138" width="128" height="138"/>
+	<SubTexture name="jump_up_loop0004" x="0" y="276" width="128" height="138"/>
+	<SubTexture name="jump_up_loop0005" x="0" y="276" width="128" height="138"/>
+	<SubTexture name="jump_up_loop0006" x="0" y="138" width="128" height="138"/>
+	<SubTexture name="jump_up_loop0007" x="0" y="138" width="128" height="138"/>
+	<SubTexture name="jump_up_loop0008" x="0" y="276" width="128" height="138"/>
+	<SubTexture name="jump_up_loop0009" x="0" y="276" width="128" height="138"/>
+</TextureAtlas>

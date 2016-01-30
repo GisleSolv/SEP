@@ -1,0 +1,172 @@
+fileFormatVersion: 2
+guid: 3a15b9d1cb15d39438ce7916cf9bbcbc
+timeCreated: 1454169168
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: carl_jumpUp_0
+    21300002: carl_jumpUp_1
+    21300004: carl_jumpUp_2
+    21300006: carl_jumpUp_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: carl_jumpUp_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 350
+        width: 118
+        height: 162
+      alignment: 9
+      pivot: {x: 0.3898934, y: 0.4124626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.007423401, y: 95.18106}
+        - {x: -38.007423, y: 40.18106}
+        - {x: -38.007423, y: 28.18106}
+        - {x: -30.007423, y: 22.18106}
+        - {x: -24.007423, y: 18.18106}
+        - {x: -18.007423, y: 20.18106}
+        - {x: -14.007423, y: 23.18106}
+        - {x: -10.007423, y: 27.18106}
+        - {x: -10.007423, y: 26.18106}
+        - {x: -26.007423, y: 10.181061}
+        - {x: -38.007423, y: -42.81894}
+        - {x: -38.007423, y: -66.81894}
+        - {x: 33.992577, y: -66.81894}
+        - {x: 46.992577, y: -61.81894}
+        - {x: 68.99258, y: 15.181061}
+        - {x: 68.99258, y: 59.18106}
+        - {x: 25.992577, y: 95.18106}
+    - name: carl_jumpUp_1
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 350
+        width: 118
+        height: 162
+      alignment: 9
+      pivot: {x: 0.38989347, y: 0.42391986}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.007431, y: 93.32498}
+        - {x: -11.007431, y: 74.32498}
+        - {x: -1.007431, y: 73.32498}
+        - {x: 6.992569, y: 73.32498}
+        - {x: -5.007431, y: 73.32498}
+        - {x: -10.007431, y: 69.32498}
+        - {x: -41.00743, y: 37.32498}
+        - {x: -41.00743, y: 27.324982}
+        - {x: -38.00743, y: 20.324982}
+        - {x: -27.007431, y: 17.324982}
+        - {x: -17.007431, y: 25.324982}
+        - {x: -17.007431, y: 30.324982}
+        - {x: -10.007431, y: 36.32498}
+        - {x: -18.007431, y: 19.324982}
+        - {x: -41.00743, y: 4.3249817}
+        - {x: -41.00743, y: -41.67502}
+        - {x: -36.00743, y: -60.67502}
+        - {x: 61.99257, y: -60.67502}
+        - {x: 71.99257, y: -14.675018}
+        - {x: 71.99257, y: 93.32498}
+    - name: carl_jumpUp_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 188
+        width: 118
+        height: 162
+      alignment: 9
+      pivot: {x: 0.45281142, y: 0.46402034}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.4317474, y: 86.828705}
+        - {x: -38.431747, y: 68.828705}
+        - {x: -52.431747, y: 54.828705}
+        - {x: -52.431747, y: -19.171295}
+        - {x: -33.431747, y: -43.171295}
+        - {x: 55.568253, y: -43.171295}
+        - {x: 64.56825, y: -20.171295}
+        - {x: 64.56825, y: 60.828705}
+        - {x: 26.568253, y: 86.828705}
+      - - {x: 61.568253, y: 36.828705}
+        - {x: 63.568253, y: 34.828705}
+        - {x: 64.56825, y: 34.828705}
+        - {x: 64.56825, y: 41.828705}
+        - {x: 61.568253, y: 40.828705}
+    - name: carl_jumpUp_3
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 188
+        width: 118
+        height: 162
+      alignment: 9
+      pivot: {x: 0.4449468, y: 0.4582917}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.503723, y: 87.756744}
+        - {x: -42.503723, y: 79.756744}
+        - {x: -48.503723, y: 66.756744}
+        - {x: -45.503723, y: 58.756744}
+        - {x: -41.503723, y: 56.756744}
+        - {x: -32.503723, y: 56.756744}
+        - {x: -27.503723, y: 59.756744}
+        - {x: -30.503723, y: 56.756744}
+        - {x: -35.503723, y: 55.756744}
+        - {x: -48.503723, y: 51.756744}
+        - {x: -52.503723, y: 53.756744}
+        - {x: -52.503723, y: -10.243256}
+        - {x: -38.503723, y: -41.243256}
+        - {x: 65.49628, y: -41.243256}
+        - {x: 65.49628, y: 78.756744}
+        - {x: 52.496277, y: 87.756744}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

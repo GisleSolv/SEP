@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="carl_jumpDown.png">
+	<!-- Created with Adobe Flash Professional version 15.0.1.179 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="jump_down0000" x="0" y="0" width="142" height="225" pivotX="-156.3" pivotY="117.9"/>
+	<SubTexture name="jump_down0001" x="0" y="0" width="142" height="225"/>
+	<SubTexture name="jump_down0002" x="0" y="225" width="142" height="225"/>
+	<SubTexture name="jump_down0003" x="0" y="225" width="142" height="225"/>
+	<SubTexture name="jump_down0004" x="142" y="0" width="142" height="225"/>
+	<SubTexture name="jump_down0005" x="142" y="0" width="142" height="225"/>
+	<SubTexture name="jump_down0006" x="142" y="225" width="142" height="225"/>
+	<SubTexture name="jump_down0007" x="142" y="225" width="142" height="225"/>
+</TextureAtlas>
