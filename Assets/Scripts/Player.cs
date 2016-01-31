@@ -18,6 +18,8 @@ public class Player : MonoBehaviour
     public Vector2 ColBoxUL, ColBoxLR;
     public LayerMask GroundLayer;
     private bool m_grounded;
+    public bool Grounded { get { return m_grounded; } }
+    public bool Crouching { get; private set; }
 
     float m_initScale;
 
@@ -95,10 +97,11 @@ public class Player : MonoBehaviour
 
         m_body.velocity = vel;
 
+        Crouching = Input.GetAxis("Vertical") < 0;
         m_anim.SetBool("Grounded", m_grounded);
         m_anim.SetBool("Moving", moveX != 0);
         m_anim.SetFloat("ySpeed", m_body.velocity.y);
-        m_anim.SetBool("Crouch", Input.GetAxis("Vertical") < 0);
+        m_anim.SetBool("Crouch", Crouching);
 
     }
 
@@ -124,6 +127,17 @@ public class Player : MonoBehaviour
             if (e != null)
                 e.OnPlayerHit(this, c);
                 
+        }
+    }
+
+    void OnTriggerEnter2D(Collider2D c)
+    {
+        if (c.tag == "Enemy")
+        {
+            IEnemy e = c.GetComponent<IEnemy>();
+            if (e != null)
+                e.OnPlayerHit(this, null);
+
         }
     }
 

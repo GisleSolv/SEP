@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bird.png">
+	<!-- Created with Adobe Flash Professional version 15.0.1.179 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="bird0000" x="0" y="0" width="75" height="70" pivotX="36.25" pivotY="38.45"/>
+	<SubTexture name="bird0001" x="75" y="0" width="75" height="70"/>
+	<SubTexture name="bird0002" x="150" y="0" width="75" height="70"/>
+	<SubTexture name="bird0003" x="0" y="70" width="75" height="70"/>
+	<SubTexture name="bird0004" x="75" y="70" width="75" height="70"/>
+	<SubTexture name="bird0005" x="150" y="70" width="75" height="70"/>
+	<SubTexture name="bird0006" x="0" y="140" width="75" height="70"/>
+	<SubTexture name="bird0007" x="75" y="140" width="75" height="70"/>
+	<SubTexture name="bird0008" x="150" y="140" width="75" height="70"/>
+	<SubTexture name="bird0009" x="0" y="210" width="75" height="70"/>
+</TextureAtlas>

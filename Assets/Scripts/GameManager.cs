@@ -39,7 +39,7 @@ public class GameManager : MonoBehaviour
     {
         m_pObjects = FindObjectsOfType<PlaythroughSpecificObject>();
 
-        StartCoroutine(DelayedRestart(0));
+        StartCoroutine(DelayedRestart(0, 0.5f));
 
 
     }
@@ -57,14 +57,16 @@ public class GameManager : MonoBehaviour
     {
         if (CameraPath)
             CameraPath.Stop();
-        StartCoroutine(DelayedRestart(-1));
+        StartCoroutine(DelayedRestart(-1, 1));
     }
 
-    IEnumerator DelayedRestart(int n)
+    IEnumerator DelayedRestart(int n, float fadeD)
     {
-        Cam.FadeOut(0.5f);
+        
         Player.SetDead(true);
         Player.Body.simulated = false;
+        yield return new WaitForSeconds(fadeD);
+        Cam.FadeOut(0.5f);
 
         yield return new WaitForSeconds(0.5f);
 
@@ -113,7 +115,7 @@ public class GameManager : MonoBehaviour
             UnityEngine.SceneManagement.SceneManager.LoadScene(NextLevel);
         }
         else
-            StartCoroutine(DelayedRestart(1));
+            StartCoroutine(DelayedRestart(1, 0.5f));
     }
 
 

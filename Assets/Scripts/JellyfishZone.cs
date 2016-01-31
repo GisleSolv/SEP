@@ -23,6 +23,8 @@ public class JellyfishZone : MonoBehaviour
     IEnumerator KillPlayer(Player p)
     {
         p.SetDead(true);
+        if(GameManager.Instance.CameraPath)
+            GameManager.Instance.CameraPath.Stop();
         while(p.Body.velocity.magnitude>1)
         {
             Vector2 v = p.Body.velocity;
